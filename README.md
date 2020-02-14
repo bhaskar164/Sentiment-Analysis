@@ -6,7 +6,6 @@ We need to find out a solution to predict the sentiments of a person through the
 Nowadays feedbacks are important in every business, no matter whether it is a small or large company. Sentiment analysis is a way to analyze the comments of the customer and predicting whether he is satisfied by service or not. 
 
 # Technologies used
-  * Bullet list
   * Python
   * Machine Learning
   * Numpy
