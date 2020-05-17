@@ -1,5 +1,5 @@
-# Sentiment-Analysis
-This project is all about predicting the sentiment(i.e., Negative,Positive,Neutral) of the user according to text that is written by user.  
+# Sentiment-Analysis-WebApp
+This project is all about predicting the sentiment(i.e., Negative,Positive,Neutral) of the user according to text that is written by user. User Will write some text on the website and will predict the sentiment of written text out of three classes.
 
 # Objective
 We need to find out a solution to predict the sentiments of a person through the text they are writing without human intervention.
