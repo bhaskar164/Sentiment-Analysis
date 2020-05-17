@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="../static/index.css" />
+    <title>SENTIMENT ANALYSIS 1.1</title>
+  </head>
+  <body>
+    <div class="container">
+      <img src="../static/logo.png" alt="SENTIMENT ANALYSIS " class="logo" />
+      <form action="/submit" method="POST">
+        <div class="form-group">
+          <h3>ENTER COMMENTS TO PREDICT SENTIMENT OF USER</h3>
+          <textarea
+            name="data"
+            id=""
+            cols="30"
+            rows="10"
+            placeholder="Tell us what you liked and/or did not like"
+            required=true></textarea>
+        </div>
+        <input type="submit" value="PREDICT" class="btn" />
+      </form>
+    </div>
+  </body>
+</html>
